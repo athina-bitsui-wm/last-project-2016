@@ -1,0 +1,19 @@
+body{
+    background-color: #3b3b3b;
+}
+div.naruto{
+    float: right;
+}
+div.sasuke{
+    float: right;
+}
+div.menma{
+    float: left;
+}
+a{
+    color: whitesmoke;
+}
+header{
+    color: whitesmoke;
+    background-img: url(#);
+}
