@@ -1,5 +1,5 @@
 body{
-    background-color: #3b3b3b;
+    background-color: #3f3f3f;
 }
 div.naruto{
     float: right;
@@ -8,12 +8,23 @@ div.sasuke{
     float: right;
 }
 div.menma{
-    float: left;
+    text-align: center;
+}
+div.ryuu{
+    text-align: center;
+    background-color: #3babe6;
+    height: 335px;
+}
+div.taro{
+    font-size: large;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+#footer{
+    background-color: #3babe6;
+    text-align: center;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: small;
 }
 a{
     color: whitesmoke;
-}
-header{
-    color: whitesmoke;
-    background-img: url(#);
 }
